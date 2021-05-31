@@ -23,6 +23,7 @@ git checkout master
 npm install
 npm start
 ```
+Nota: Para consumir el API en producción comente la línea 26 y descomente la linea 28 del archivo layout.js ubicado en el directorio componentes. Si requiere hacer request al API ejecutandose localmente descomente la línea 26 y comente la línea 28.
 
 ## Deployment
 
